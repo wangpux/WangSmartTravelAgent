@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="feadfd87-0d6d-4125-930c-a3c91705e278" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Agent项目.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/react_agent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/tools/agent_tools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agent/tools/middleware.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/chroma.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/prompts.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/rag.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/chroma_db/chroma.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/city_data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/test.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/我是驴友-三亚旅游攻略.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/我是驴友-上海旅游攻略.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/我是驴友-丽江攻略.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/我是驴友-乌鲁木齐.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/我是驴友-北京.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/我是驴友-厦门旅游攻略.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/我是驴友-哈尔滨旅游攻略.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/我是驴友-大理.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/我是驴友-成都攻略.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/我是驴友-拉萨旅游攻略.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/我是驴友-敦煌.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/我是驴友-杭州攻略.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/我是驴友-西安.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/我是驴友-重庆旅游攻略.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/我是驴友-青岛旅游攻略.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/md5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/factory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prompts/main_prompt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prompts/rag_summarize_prompt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prompts/report_prompt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rag/rag_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rag/vector_store.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/config_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/file_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/logger_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/path_tool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/prompt_handler.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3BNBYgaj6NAvlkPZUVmqM9cvgRU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.app.executor": "Run",
+    "Python.config_handler.executor": "Run",
+    "Python.file_handler.executor": "Run",
+    "Python.logger_handler.executor": "Run",
+    "Python.rag_service.executor": "Run",
+    "Python.react_agent.executor": "Run",
+    "Python.vector_store.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/HP/Desktop/pythonProject/WangSmartTravel",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.VCS"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\pythonProject\Agent项目" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="feadfd87-0d6d-4125-930c-a3c91705e278" name="更改" comment="" />
+      <created>1774319697055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774319697055</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,167 @@
+{
+  "北京": {
+    "hotel_avg": 550,
+    "ticket_total": 350,
+    "daily_food_avg": 200,
+    "tags": ["历史文化", "宏伟", "政治中心", "必打卡"],
+    "best_months": [3, 4, 5, 9, 10],
+    "climate_type": "温带季风",
+    "crowd_level": 9,
+    "safety_index": 10,
+    "highlights": "故宫、长城、颐和园，感受千年古都的底蕴。"
+  },
+  "上海": {
+    "hotel_avg": 650,
+    "ticket_total": 450,
+    "daily_food_avg": 250,
+    "tags": ["魔都", "时尚", "建筑", "夜景"],
+    "best_months": [3, 4, 5, 10, 11],
+    "climate_type": "亚热带季风",
+    "crowd_level": 10,
+    "safety_index": 9,
+    "highlights": "外滩万国建筑博览群、迪士尼乐园。"
+  },
+  "三亚": {
+    "hotel_avg": 1200,
+    "ticket_total": 400,
+    "daily_food_avg": 300,
+    "tags": ["海滨", "度假", "潜水", "温暖"],
+    "best_months": [11, 12, 1, 2],
+    "climate_type": "热带季风",
+    "crowd_level": 8,
+    "safety_index": 8,
+    "highlights": "亚龙湾沙滩、南山海上观音、蜈支洲岛。"
+  },
+  "成都": {
+    "hotel_avg": 400,
+    "ticket_total": 150,
+    "daily_food_avg": 180,
+    "tags": ["美食", "大熊猫", "休闲", "安逸"],
+    "best_months": [3, 4, 5, 9, 10],
+    "climate_type": "亚热带季风",
+    "crowd_level": 9,
+    "safety_index": 9,
+    "highlights": "大熊猫繁育研究基地、宽窄巷子、火锅。"
+  },
+  "西安": {
+    "hotel_avg": 380,
+    "ticket_total": 300,
+    "daily_food_avg": 150,
+    "tags": ["古文明", "兵马俑", "美食", "厚重"],
+    "best_months": [3, 4, 5, 9, 10],
+    "climate_type": "温带季风",
+    "crowd_level": 8,
+    "safety_index": 9,
+    "highlights": "秦始皇兵马俑、大雁塔、回民街小吃。"
+  },
+  "哈尔滨": {
+    "hotel_avg": 350,
+    "ticket_total": 500,
+    "daily_food_avg": 120,
+    "tags": ["冰雪", "俄式建筑", "冬天", "豪迈"],
+    "best_months": [12, 1, 2],
+    "climate_type": "温带大陆性",
+    "crowd_level": 10,
+    "safety_index": 8,
+    "highlights": "冰雪大世界、中央大街、圣索菲亚大教堂。"
+  },
+  "杭州": {
+    "hotel_avg": 500,
+    "ticket_total": 200,
+    "daily_food_avg": 200,
+    "tags": ["西湖", "诗意", "互联网", "秀丽"],
+    "best_months": [3, 4, 5, 9, 10],
+    "climate_type": "亚热带季风",
+    "crowd_level": 9,
+    "safety_index": 10,
+    "highlights": "西湖十景、灵隐寺、龙井村。"
+  },
+  "重庆": {
+    "hotel_avg": 420,
+    "ticket_total": 100,
+    "daily_food_avg": 160,
+    "tags": ["赛博朋克", "山城", "火锅", "魔幻"],
+    "best_months": [3, 4, 10, 11],
+    "climate_type": "亚热带季风",
+    "crowd_level": 10,
+    "safety_index": 9,
+    "highlights": "洪崖洞夜景、长江索道、李子坝轻轨穿楼。"
+  },
+  "大理": {
+    "hotel_avg": 450,
+    "ticket_total": 180,
+    "daily_food_avg": 130,
+    "tags": ["文艺", "苍山洱海", "慢生活", "浪漫"],
+    "best_months": [3, 4, 5, 10],
+    "climate_type": "高原季风",
+    "crowd_level": 7,
+    "safety_index": 9,
+    "highlights": "洱海骑行、大理古城、双廊镇。"
+  },
+  "丽江": {
+    "hotel_avg": 480,
+    "ticket_total": 260,
+    "daily_food_avg": 140,
+    "tags": ["古城", "雪山", "民俗", "艳遇"],
+    "best_months": [4, 5, 9, 10, 11],
+    "climate_type": "高原季风",
+    "crowd_level": 8,
+    "safety_index": 8,
+    "highlights": "丽江古城、玉龙雪山、蓝月谷。"
+  },
+  "青岛": {
+    "hotel_avg": 460,
+    "ticket_total": 120,
+    "daily_food_avg": 220,
+    "tags": ["啤酒", "海边", "红瓦绿树", "清爽"],
+    "best_months": [6, 7, 8],
+    "climate_type": "温带季风",
+    "crowd_level": 9,
+    "safety_index": 9,
+    "highlights": "崂山、栈桥、青岛啤酒博物馆。"
+  },
+  "厦门": {
+    "hotel_avg": 520,
+    "ticket_total": 100,
+    "daily_food_avg": 180,
+    "tags": ["文艺", "鼓浪屿", "环岛路", "清新"],
+    "best_months": [3, 4, 5, 10, 11],
+    "climate_type": "亚热带季风",
+    "crowd_level": 9,
+    "safety_index": 9,
+    "highlights": "鼓浪屿、厦门大学、南普陀寺。"
+  },
+  "敦煌": {
+    "hotel_avg": 400,
+    "ticket_total": 450,
+    "daily_food_avg": 100,
+    "tags": ["大漠", "莫高窟", "丝绸之路", "震撼"],
+    "best_months": [5, 6, 9, 10],
+    "climate_type": "温带干旱",
+    "crowd_level": 6,
+    "safety_index": 9,
+    "highlights": "莫高窟、鸣沙山月牙泉、雅丹魔鬼城。"
+  },
+  "拉萨": {
+    "hotel_avg": 450,
+    "ticket_total": 300,
+    "daily_food_avg": 150,
+    "tags": ["信仰", "布达拉宫", "高原", "神圣"],
+    "best_months": [6, 7, 8, 9],
+    "climate_type": "高原山地",
+    "crowd_level": 7,
+    "safety_index": 10,
+    "highlights": "布达拉宫、大昭寺、纳木错。"
+  },
+  "乌鲁木齐": {
+    "hotel_avg": 380,
+    "ticket_total": 200,
+    "daily_food_avg": 130,
+    "tags": ["西域", "美食", "天山", "辽阔"],
+    "best_months": [6, 7, 8, 9],
+    "climate_type": "温带大陆性",
+    "crowd_level": 6,
+    "safety_index": 10,
+    "highlights": "天山天池、国际大巴扎、新疆维吾尔自治区博物馆。"
+  }
+}
